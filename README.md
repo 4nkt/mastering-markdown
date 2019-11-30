@@ -79,3 +79,46 @@ Here is as image as html code.
 <img src="https://unsplash.it/500/500?image=910" />
 
 [image]: https://unsplash.it/500/500?image=900
+
+## Unordered Lists
+
+Here are some examples of unordered lists:
+
++ milk
++ eggs
++ bread
+
+- sugar
+- salt
+- pepper
+
+* cheese
+* cream
+* butter
+
+## Ordered Lists
+
+Here is an example of ordered list:
+
+1. Combine Ingredients
+2. Gently Stir Together
+3. Bake at 350 for 20 minutes
+
+Another example:
+
+1. Mix Ingredients
+1. Stir Together
+1. Bake at 350 for 20 minutes
+
+## Nested Lists
+
+1. Combine Following Ingredients
+    * Item 1
+    * Item 2
+1. Stir Together
+    * Nested Item
+
+        This is a paragraph.
+
+        ![](https://unsplash.it/500/500?image=111)
+1. Bake
