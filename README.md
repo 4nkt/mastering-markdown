@@ -141,3 +141,28 @@ This is followed by a horizontal rule.
 > You miss 100% of the shots you don't take.
 >
 > \- **Wayne Gretzky**
+
+## Code Blocks
+
+Here are some examples of code blocks:
+
+    var x = 100;
+    const dog = 'snickers';
+
+```php
+$age = 50;
+$name = "ankit";
+echo strtoupper($name);
+```
+
+```
+echo "hello"
+```
+
+Hey did you try `var x = 100;`?
+
+```diff
+var x = 100;
+- var y = 200;
++ var y = 400;
+```
