@@ -122,3 +122,22 @@ Another example:
 
         ![](https://unsplash.it/500/500?image=111)
 1. Bake
+
+## Line Breaks
+
+This is cool.<br/>
+There is a line break before this.
+
+This is a paragraph.
+
+## Horizontal Rules
+
+This is followed by a horizontal rule.
+
+---
+
+## Block Quotes
+
+> You miss 100% of the shots you don't take.
+>
+> \- **Wayne Gretzky**
