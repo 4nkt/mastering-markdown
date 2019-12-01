@@ -179,3 +179,15 @@ var x = 100;
 * [ ] Get Milk
 * [x] Crack Eggs
 * [ ] Cook Bacon
+
+## Github Issues / Pull Requests
+
+A issue/PR in Github can be linked using #`issue/PR number`.
+
+## Github Mentions
+
+@`username` is used for mentions in Github.
+
+## Github Emojis
+
+:smiley: :fire: :heart: :facepunch: :see_no_evil: :sunglasses: :rocket: :shit: :scream:
