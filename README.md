@@ -173,3 +173,9 @@ var x = 100;
 |:---------|:-------:|--------:|
 |Snickers|Bulldog|2|
 |Prudence|Pug|8|
+
+## Checkboxes
+
+* [ ] Get Milk
+* [x] Crack Eggs
+* [ ] Cook Bacon
