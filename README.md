@@ -166,3 +166,10 @@ var x = 100;
 - var y = 200;
 + var y = 400;
 ```
+
+## Tables
+
+|Dog's Name|Dog Breed|Dog's Age|
+|:---------|:-------:|--------:|
+|Snickers|Bulldog|2|
+|Prudence|Pug|8|
