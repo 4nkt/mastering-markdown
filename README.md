@@ -2,6 +2,17 @@
 
 Markdown is a markup language used to write both HTML and formatted text. It is easy to read just by itself as well as it converts to HTML.
 
+## Tooling
+
+Choose an editor which you are already comfortable with for writing/editing Markdown.
+
+Use **MarkdownEditing** package for **Sublime Text**.
+Use **Markdown-Writer** package for **Atom**.
+Use **Markdown All in One** extension for **VSCode**.
+
+**Marked 2**, **Mou** and **Multi Markdown** are apps for editing/viewing Markdown.
+[Dillinger](https://dillinger.io), [StackEdit](https://stackedit.io) are In-browser Markdown editors.
+
 ## Paragraph And Text Decoration
 
 This is a paragraph.
