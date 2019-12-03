@@ -202,3 +202,11 @@ A issue/PR in Github can be linked using #`issue/PR number`.
 ## Github Emojis
 
 :smiley: :fire: :heart: :facepunch: :see_no_evil: :sunglasses: :rocket: :shit: :scream:
+
+## Resources :books:
+
+* [Mastering Markdown — A mini video series to learn to write in Markdown](https://masteringmarkdown.com/)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown Guide](https://www.markdownguide.org/)
+* [Github Markdown Emoji Cheatsheet](https://gist.github.com/rxaviers/7360908)
+* [GitHub Markdown Tips](https://dev.to/burdettelamar/github-markdown-tips--2gpk)
