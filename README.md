@@ -85,10 +85,6 @@ And one more example.
 
 [<img src="https://unsplash.it/200/200?image=999" />](https://unsplash.it/500/500?image=999)
 
-Here is as image as html code.
-
-<img src="https://unsplash.it/500/500?image=910" />
-
 [image]: https://unsplash.it/500/500?image=900
 
 ## Unordered Lists
@@ -136,10 +132,10 @@ Another example:
 
 ## Line Breaks
 
-This is cool.<br/>
-There is a line break before this.
+To create a line break, end a line with two or more spaces, and then add a new line.
 
-This is a paragraph.
+This is the first line.  
+And this is the second line.
 
 ## Horizontal Rules
 
@@ -190,6 +186,16 @@ var x = 100;
 * [ ] Get Milk
 * [x] Crack Eggs
 * [ ] Cook Bacon
+
+## HTML
+
+HTML can be directly used inside Markdown. This is helpful if you prefer certain HTML tags to Markdown syntax. For example, some people find that it's easier to use HTML tags for images.
+
+<p>
+  Here is an example of a paragraph with some <b>bold</b> text and an image
+  <img src="https://unsplash.it/500/500?image=910" />
+  <br/>written in HTML.
+</p>
 
 ## Github Issues / Pull Requests
 
